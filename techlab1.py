@@ -1,0 +1,4 @@
+
+print ("NAME = DEEPANSHU SEMWAL")
+print("SAP ID =590016618")
+print("SCHOOL=B.TECH(CSE)")
